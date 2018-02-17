@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="attendance_saved">Your attendace saved</string>
+    <string name="attendance_not_saved">Unable to save your attendace</string>
+    <string name="invalied_location">Unable to get you position. Please check your gps and network connections</string>
+    <string name="history">History</string>
+
+</resources>

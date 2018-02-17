@@ -1,0 +1,2 @@
+# Attendance
+ This Attendance app has been built to eliminate the time and effort wasted in taking attendances in office staff. It also greatly reduces the amount of paper resources needed in attendance data management. This is an android mobile app. With this app users can mark attendance with data time and the geo location. They can view their attendance history with marked attendance time with Geo locations.
